@@ -1,2 +1,2 @@
-Вёрстка сайта аренды автомобилей UBER с применением библиотеки Bootstrap, препроцессора SASS.
-Открыть сайт можно по ссылке https://olgapershai.github.io./
+Layout of the UBER car rental website using the Bootstrap library, the SASS preprocessor.
+Open the site at the link https://olgapershai.github.io./
